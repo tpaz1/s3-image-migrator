@@ -8,6 +8,7 @@ This Python script allows you to migrate images from one S3-compatible storage e
 - Python 3.x
 - `boto3` library: You can install it using `pip install boto3`
 - `Pillow` library: You can install it using `pip install Pillow`
+- `yaml` library: You can install it using `pip install pyyaml`
 
 ## Getting Started
 
