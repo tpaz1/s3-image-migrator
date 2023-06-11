@@ -1,0 +1,9 @@
+source:
+  endpoint: 'source-endpoint'
+  access_key: 'source-access-key'
+  private_access_key: 'source-private-access-key'
+
+destination:
+  endpoint: 'destination-endpoint'
+  access_key: 'destination-access-key'
+  private_access_key: 'destination-private-access-key'
