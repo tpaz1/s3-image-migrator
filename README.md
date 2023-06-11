@@ -31,8 +31,9 @@ destination:
   endpoint: 'destination-endpoint'
   access_key: 'destination-access-key'
   private_access_key: 'destination-private-access-key'
-Make sure to replace the placeholder values with the actual endpoint URLs and access keys for your private cloud storage.
 ```
+Make sure to replace the placeholder values with the actual endpoint URLs and access keys for your private cloud storage.
+
 ## Usage
 
 Once you have set up the configuration, run the script by executing the image_migration.py file. The script will connect to the source and destination endpoints, list the images in the source bucket, and perform the following actions:
